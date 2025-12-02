@@ -10,7 +10,7 @@ Install with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/gokarna123-goku/spotify-clone.git
+https://github.com/Harsh-pandey01/Sportify-UI.git
 ```
 
 Remove `.git` an `README.md` if you want to push this repo on your github.com.
@@ -76,7 +76,7 @@ Live Demo:-
 
 ## Author
 
-- [Gokarna Adhikari](https://github.com/gokarna123-goku)
+- Harsh Pandey
 
 
 ## Acknowledgements
