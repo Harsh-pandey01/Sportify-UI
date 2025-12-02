@@ -69,24 +69,11 @@ npm run dev -- --host
 ![Detail page of radio](https://github.com/user-attachments/assets/f246f66a-594d-4c4b-a829-16fc94c87b51)
 
 
-## See Demo
-
-Live Demo:- 
-
 
 ## Author
 
 - Harsh Pandey
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates Generator](https://readme.so/)
-
-
-## Support
-
-For support, email agokarna444@gmail.com or DM us on Instagram.
 
 
 ## Appendix
